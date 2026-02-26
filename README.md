@@ -9,5 +9,5 @@
 ### 🔥 Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=grvlcd&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-### 🏆 Trophies
-[![Trophies](https://github-profile-trophy.vercel.app/?username=grvlcd&theme=tokyonight&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+![Followers](https://img.shields.io/github/followers/grvlcd?style=for-the-badge&theme=dark)
+![Stars](https://img.shields.io/github/stars/grvlcd?style=for-the-badge)
